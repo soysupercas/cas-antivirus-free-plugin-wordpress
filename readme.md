@@ -12,7 +12,7 @@ A free WordPress plugin designed to protect your website against unauthorized ac
 
 ## 📥 Installation
 
-1. Download the latest version of the plugin from the [Releases](https://bueninformatico.com/wordpress/plugins/) section or clone this repository.
+1. Download the latest version of the plugin from [Buen Informatico](https://bueninformatico.com) or clone this repository.
 2. Upload the plugin folder to the `/wp-content/plugins/` directory of your WordPress installation, or compress it into a `.zip` file and upload it from your WordPress admin dashboard (*Plugins > Add New > Upload Plugin*).
 3. Activate the plugin from your WordPress control panel.
 4. Go to the settings menu to configure security options, 2FA, and headers according to your preferences.
@@ -29,7 +29,7 @@ Contributions, suggestions, and bug reports are always welcome! If you want to p
 ## 📄 License
 
 This project is distributed under the [MIT](LICENSE) license.
-</div>
 
-</body>
-</html>
+---
+
+Developer: https://bueninformatico.com
